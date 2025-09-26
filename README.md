@@ -15,4 +15,5 @@ A comprehensive Python implementation for real-time object tracking using both c
 1. Clone this repository:
 ```bash
 git clone <repository-url>
-cd real-time-object-tracking
+
+cd Object-Detection
